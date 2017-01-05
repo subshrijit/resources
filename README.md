@@ -7,6 +7,8 @@ attenion to design
 - [People](people.md) - list of designers who work heavily on open 
 source projects and tools  
 
+Are you a developer looking for a designer? Consider posting to our [jobs board](opensourcedesign.net/jobs/). 
+
 ---
 
 Designers are not only designers who finish a concept and »hand it off« to 
