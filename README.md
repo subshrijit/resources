@@ -77,7 +77,7 @@ Commons.
 source icon sets to use as Inkscape symbols.
 * [IconMonstr](http://iconmonstr.com/) A large collection of glyph icons from a 
 German artist. Free to use without attribution and free to modify.
-
+* [FontAwesome](http://fontawesome.io/icons/) The iconic font and CSS toolkit. Free to use. 
 
 ## Fonts
 
