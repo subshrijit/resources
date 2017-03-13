@@ -3,9 +3,9 @@
 Are you a designer interested in doing open source design or simply seeing what open source can offer you to work on your non-open source projects? Look no further. Here is a collection of great tools, libraries, reading material, and media for you to use, for free (as in cost), while you spread the free (as in freedom) love of open source design!
 
 - [Projects](projects.md) - list of open source projects with an 
-attenion to design
+attention to design.
 - [People](people.md) - list of designers who work heavily on open 
-source projects and tools  
+source projects and tools.
 
 Are you a developer looking for a designer? Consider posting to our [jobs board](opensourcedesign.net/jobs/). 
 
@@ -66,18 +66,18 @@ Images](http://www.nypl.org/research/collections/digital-collections/public-doma
 
 ## Icons
 
-* [The Noun Project](http://thenounproject.com) CC and purchasable icons
+* [The Noun Project](http://thenounproject.com) CC and purchasable icons.
 * [IcoMoon](http://icomoon.io/) CC icons and free to use icon-font creation 
 software.
 * [Pictogramas](http://github.com/adrianmg/pictogramas) Open source free icons 
-for personal and commercial purposes
+for personal and commercial purposes.
 * [ToIcon](http://www.toicon.com/) All icons are licensed under a Creative 
-Commons
+Commons.
 * [Inkscape Open Symbols](https://github.com/Xaviju/inkscape-open-symbols) Open 
-source icon sets to use as Inkscape symbols
+source icon sets to use as Inkscape symbols.
 * [IconMonstr](http://iconmonstr.com/) A large collection of glyph icons from a 
-German artist. Free to use without attribution and free to modify
-
+German artist. Free to use without attribution and free to modify.
+* [FontAwesome](http://fontawesome.io/icons/) The iconic font and CSS toolkit. Free to use. [CDN](https://www.bootstrapcdn.com/fontawesome/). [GitHub](https://github.com/FortAwesome/Font-Awesome).
 
 ## Fonts
 
@@ -89,15 +89,15 @@ German artist. Free to use without attribution and free to modify
 ## CSS Frameworks
 
 * [Bootstrap](http://getbootstrap.com) Fully featured mature HTML, CSS (LESS) & 
-Javascript
+Javascript.
 * [Foundation](http://foundation.zurb.com) Fully featured mature HTML, CSS 
-(Sass) & Javascript
-* [BASCSS](http://www.basscss.com/) Lightning-Fast, Modular CSS for Designers
-* [Bourbon](http://bourbon.io/) A simple and lightweight mixin library for Sass
+(Sass) & Javascript.
+* [BASCSS](http://www.basscss.com/) Lightning-Fast, Modular CSS for Designers.
+* [Bourbon](http://bourbon.io/) A simple and lightweight mixin library for Sass.
 * [Kickoff](http://tmwagency.github.io/kickoff/) A lightweight front-end 
-framework for creating scalable, responsive sites
+framework for creating scalable, responsive sites.
 * [Space Base](http://spacebase.space150.com/) A sass-based responsive css 
-framework
+framework.
 * [Rebar](http://github.com/brennannovak/rebar) Simple lightweight HTML, CSS 
 (LESS)
 
@@ -125,34 +125,34 @@ Things](http://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/0465067107
 
 ## Open Source and Design Reads
 
-* [The Noun Project](http://thenounproject.com) for icons
+* [The Noun Project](http://thenounproject.com) for icons.
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/), [Open 
 Font Library](http://openfontlibrary.org), [Google Web 
 Fonts](http://google.com/fonts)
 * [Bootstrap](http://getbootstrap.com) HTML, CSS & Javascript framework
 * [How Not To Design a 
 Portfolio](http://www.alexcornell.com/the-worst-portfolio-ever/)
-* [Wordpress](http://wordpress.org) themes – but design is not theming
-* [Open Design Now](http://opendesignnow.org/) book
-* [Usability in Free Software](http://jancborchardt.net/usability-in-free-software) thesis
+* [Wordpress](http://wordpress.org) themes – but design is not theming.
+* [Open Design Now](http://opendesignnow.org/) book.
+* [Usability in Free Software](http://jancborchardt.net/usability-in-free-software) thesis.
 * [How to get designers (or anyone) to work on your open source 
 project](http://designopen.org/articles/import-designers/) recent article on 
-Design Open
+Design Open.
 * [Bariers Faced by newcomers to open source projects: a systematic 
 review](http://www.academia.edu/6537077/Barriers_faced_by_newcomers_to_open_source_projects_a_systematic_review) 
-Research Paper
+Research Paper.
 * [An Exploration of Fedora's Online Open Source Development 
 Community](https://www.academia.edu/4303779/An_Exploration_of_Fedora_s_Online_Open_Source_Development_Community) 
-Research Paper
+Research Paper.
 * [Designers and women in open 
 source](http://old.vi.to/designers-and-women-in-open-source.html) Why designing 
-is difficult for Open Source
+is difficult for Open Source.
 * [Designers, Women, and Hostility in Open Source 
 Project](http://smarterware.org/7550/designers-women-and-hostility-in-open-source) 
 Follow up to the above article.
 * [Barriers for 
-Designers](http://designopen.org/articles/barriers-for-designers/) What bariers 
-designers face when contributing to Open Source
+Designers](http://designopen.org/articles/barriers-for-designers/) What barriers 
+designers face when contributing to Open Source.
 
 ## Searching The Creative Commons
 * [Creative Commons search](http://search.creativecommons.org)
@@ -196,19 +196,19 @@ projects.
 
 ## Other nice stuff
 
-* [Libre Graphics magazine](http://libregraphicsmag.com/) print magazine
+* [Libre Graphics magazine](http://libregraphicsmag.com/) print magazine.
 * [Libre Projects](http://libreprojects.net) collection of nice open source web 
-apps
+apps.
 * [Libre Graphics World](http://libregraphicsworld.org/)
-* [Libre Graphics Meeting](http://libregraphicsmeeting.org/) conference
+* [Libre Graphics Meeting](http://libregraphicsmeeting.org/) conference.
 * [Transifex](https://www.transifex.com/connect/projects/) an open translation 
-platform lots of open source projects use
+platform lots of open source projects use.
 * [Indiegogo](http://www.indiegogo.com/) crowdfunding platform, also useful for 
-funding open source projects
+funding open source projects.
 * [Beautiful Open](http://beautifulopen.com) Beautiful sites for Open Source 
 projects.
 * [Design Open Src](http://designopensrc.com/index.html#/) A list of awesome 
 designers willing to work on Open Src projects, created by @clintonhalpin
 * [Open Design and Hardware Group](http://design.okfn.org/). OKFN open design 
 and hardware group.
-* [PIXLS.US](https://pixls.us) Free/Open Source Photography
+* [PIXLS.US](https://pixls.us) Free/Open Source Photography.
