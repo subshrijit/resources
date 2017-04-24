@@ -84,7 +84,7 @@ German artist. Free to use without attribution and free to modify.
 * [The League of Movable Type](https://www.theleagueofmoveabletype.com/)
 * [Open Font Library](http://openfontlibrary.org)
 * [Google Web Fonts](http://google.com/fonts)
-
+* [Open Source Publishing](http://osp.kitchen/foundry/)
 
 ## CSS Frameworks
 
